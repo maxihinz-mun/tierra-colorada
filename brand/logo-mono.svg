@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 140" role="img" aria-label="Tierra Colorada — Diario de Corrientes">
+  <defs>
+    <style>
+      .wordmark { font-family: 'Playfair Display', Georgia, serif; font-weight: 700; }
+      .tagline  { font-family: 'Inter', Helvetica, Arial, sans-serif; font-weight: 500; letter-spacing: 4px; }
+      .mono     { font-family: 'Playfair Display', Georgia, serif; font-weight: 700; }
+    </style>
+  </defs>
+  <g transform="translate(10,10)">
+    <rect x="0" y="0" width="120" height="120" rx="6" fill="none" stroke="#1A1A1A" stroke-width="2"/>
+    <rect x="0" y="64" width="120" height="56" fill="#1A1A1A"/>
+    <circle cx="92" cy="38" r="14" fill="#1A1A1A"/>
+    <text x="60" y="104" text-anchor="middle" class="mono" font-size="46" fill="#FFFFFF">tc</text>
+  </g>
+  <text x="148" y="68" class="wordmark" font-size="42" fill="#1A1A1A">Tierra Colorada</text>
+  <rect x="148" y="82" width="320" height="1.5" fill="#1A1A1A"/>
+  <text x="148" y="106" class="tagline" font-size="11" fill="#1A1A1A">DIARIO DE CORRIENTES · POLÍTICA · ECONOMÍA · SOCIEDAD</text>
+</svg>

@@ -1,0 +1,31 @@
+---
+const pathname = Astro.url.pathname.replace(/\/$/, "");
+const isActive = (path: string) => {
+  if (path === "/") return pathname === "" || pathname === "/";
+  return pathname === path || pathname.startsWith(path + "/");
+};
+const fechaHoy = new Intl.DateTimeFormat("es-AR", {
+  weekday: "long",
+  day: "numeric",
+  month: "long",
+  year: "numeric",
+}).format(new Date());
+---
+
+<header class="site-header">
+  <div class="container">
+    <div class="site-header__top">
+      <a href="/" class="site-header__logo" aria-label="Tierra Colorada — Inicio">
+        <img src="/logo-principal.svg" alt="Tierra Colorada" />
+      </a>
+      <div class="site-header__date">{fechaHoy}</div>
+    </div>
+    <nav class="nav" aria-label="Secciones">
+      <a href="/" class={isActive("/") ? "active" : ""}>Portada</a>
+      <a href="/politica" class={isActive("/politica") ? "active" : ""}>Política</a>
+      <a href="/economia" class={isActive("/economia") ? "active" : ""}>Economía</a>
+      <a href="/sociedad" class={isActive("/sociedad") ? "active" : ""}>Sociedad</a>
+      <a href="/rss.xml" style="margin-left:auto;font-size:0.75rem;color:var(--niebla);" aria-label="Feed RSS">RSS</a>
+    </nav>
+  </div>
+</header>

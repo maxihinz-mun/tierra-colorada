@@ -1,0 +1,33 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import ArticuloCard from "../components/ArticuloCard.astro";
+
+const notas = (await getCollection("articulos", ({ data }) => data.seccion === "sociedad"))
+  .sort((a, b) => b.data.fecha.valueOf() - a.data.fecha.valueOf());
+---
+
+<BaseLayout titulo="Sociedad — Tierra Colorada" descripcion="Sociedad correntina: salud, educación, cultura, deporte, ambiente y vida cotidiana.">
+  <div class="container">
+    <header class="section-title">
+      <h1>Sociedad</h1>
+      <p>Salud, educación, cultura, ambiente, deporte y vida en Corrientes.</p>
+    </header>
+    {notas.length === 0 ? (
+      <p style="color:var(--niebla);">Aún no hay notas publicadas en esta sección.</p>
+    ) : (
+      <div class="grilla">
+        {notas.map((n) => (
+          <ArticuloCard
+            titulo={n.data.titulo}
+            bajada={n.data.bajada}
+            seccion={n.data.seccion}
+            autor={n.data.autor}
+            fecha={n.data.fecha}
+            slug={n.slug}
+          />
+        ))}
+      </div>
+    )}
+  </div>
+</BaseLayout>

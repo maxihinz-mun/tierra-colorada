@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Tierra Colorada">
+  <defs>
+    <style>
+      .mono { font-family: 'Playfair Display', Georgia, serif; font-weight: 700; }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="120" height="120" rx="8" fill="#E8C275"/>
+  <rect x="0" y="64" width="120" height="56" fill="#B7411E"/>
+  <rect x="0" y="62" width="120" height="2" fill="#FAF6EE" opacity="0.85"/>
+  <circle cx="92" cy="38" r="14" fill="#B7411E" opacity="0.9"/>
+  <text x="60" y="104" text-anchor="middle" class="mono" font-size="46" fill="#FAF6EE">tc</text>
+</svg>

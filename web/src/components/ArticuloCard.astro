@@ -1,0 +1,24 @@
+---
+interface Props {
+  titulo: string;
+  bajada: string;
+  seccion: "politica" | "economia" | "sociedad";
+  autor: string;
+  fecha: Date;
+  slug: string;
+}
+const { titulo, bajada, seccion, autor, fecha, slug } = Astro.props;
+const seccionLabel = { politica: "Política", economia: "Economía", sociedad: "Sociedad" }[seccion];
+const fechaFmt = new Intl.DateTimeFormat("es-AR", {
+  day: "numeric",
+  month: "long",
+  year: "numeric",
+}).format(fecha);
+---
+
+<article class="card">
+  <span class="seccion">{seccionLabel}</span>
+  <h3><a href={`/articulo/${slug}/`}>{titulo}</a></h3>
+  <p class="bajada">{bajada}</p>
+  <p class="meta">Por {autor} · {fechaFmt}</p>
+</article>

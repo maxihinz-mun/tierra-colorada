@@ -1,0 +1,70 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import ArticuloCard from "../components/ArticuloCard.astro";
+
+const todos = (await getCollection("articulos"))
+  .sort((a, b) => b.data.fecha.valueOf() - a.data.fecha.valueOf());
+
+const destacada = todos.find((n) => n.data.destacada) ?? todos[0];
+const restantes = todos.filter((n) => n.slug !== destacada?.slug).slice(0, 8);
+
+const fmtFecha = (d: Date) =>
+  new Intl.DateTimeFormat("es-AR", { day: "numeric", month: "long", year: "numeric" }).format(d);
+---
+
+<BaseLayout>
+  <div class="container">
+    {destacada && (
+      <section class="portada">
+        <article class="destacada">
+          <span class="seccion" style="font-family:var(--sans);font-size:0.75rem;text-transform:uppercase;letter-spacing:2px;color:var(--tierra);font-weight:700;">
+            {{ politica: "Política", economia: "Economía", sociedad: "Sociedad" }[destacada.data.seccion]}
+          </span>
+          <h2 style="margin-top:0.4rem;">
+            <a href={`/articulo/${destacada.slug}/`} style="color:var(--carbon);">{destacada.data.titulo}</a>
+          </h2>
+          <p class="bajada">{destacada.data.bajada}</p>
+          <p class="meta" style="font-size:0.85rem;color:var(--niebla);">
+            Por {destacada.data.autor} · {fmtFecha(destacada.data.fecha)}
+          </p>
+        </article>
+        <aside>
+          <h3 style="border-bottom:2px solid var(--tierra);padding-bottom:0.4rem;font-size:1rem;text-transform:uppercase;letter-spacing:2px;">
+            Lo más reciente
+          </h3>
+          {restantes.slice(0, 4).map((n) => (
+            <ArticuloCard
+              titulo={n.data.titulo}
+              bajada={n.data.bajada}
+              seccion={n.data.seccion}
+              autor={n.data.autor}
+              fecha={n.data.fecha}
+              slug={n.slug}
+            />
+          ))}
+        </aside>
+      </section>
+    )}
+
+    {restantes.length > 4 && (
+      <section>
+        <h2 class="section-title" style="border:none;font-size:1.5rem;text-transform:uppercase;letter-spacing:2px;">
+          Más notas
+        </h2>
+        <div class="grilla">
+          {restantes.slice(4).map((n) => (
+            <ArticuloCard
+              titulo={n.data.titulo}
+              bajada={n.data.bajada}
+              seccion={n.data.seccion}
+              autor={n.data.autor}
+              fecha={n.data.fecha}
+              slug={n.slug}
+            />
+          ))}
+        </div>
+      </section>
+    )}
+  </div>
+</BaseLayout>
