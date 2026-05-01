@@ -6,6 +6,7 @@ const articulos = defineCollection({
     titulo: z.string().max(120),
     bajada: z.string().max(280),
     seccion: z.enum(["politica", "economia", "sociedad"]),
+    genero: z.enum(["noticia", "opinion", "analisis"]).default("noticia"),
     autor: z.string(),
     fecha: z.coerce.date(),
     tags: z.array(z.string()).optional(),

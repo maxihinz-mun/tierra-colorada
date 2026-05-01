@@ -1,0 +1,16 @@
+{
+  "_comment": "Copiá este archivo como .tc-bot-config.json y completá los valores. El archivo real está gitignoreado y nunca debe commitearse.",
+  "github": {
+    "user": "maxihinz-mun",
+    "repo": "tierra-colorada",
+    "pat": "ghp_REEMPLAZAR_POR_PAT_CON_SCOPE_repo",
+    "commit_author_name": "Tierra Colorada Bot",
+    "commit_author_email": "bot@tierra-colorada.local"
+  },
+  "publishing": {
+    "notes_per_run": 5,
+    "approve_threshold_strictness": "alta",
+    "fallback_when_no_news": "publicar_menos_notas",
+    "site_base_url": "https://tierra-colorada.pages.dev"
+  }
+}

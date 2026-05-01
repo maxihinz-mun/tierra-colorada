@@ -2,6 +2,9 @@
 
 Diario digital de la provincia de Corrientes. Política, economía y sociedad con mirada local.
 
+**Sitio en vivo:** https://tierra-colorada.pages.dev
+**Repositorio:** https://github.com/maxihinz-mun/tierra-colorada
+
 Este repositorio contiene tres componentes:
 
 1. **Identidad visual** (`brand/`) — paleta, tipografía y variantes del logo.

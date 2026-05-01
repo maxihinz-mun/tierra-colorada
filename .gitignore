@@ -1,0 +1,8 @@
+node_modules/
+web/dist/
+web/.astro/
+.DS_Store
+*.log
+
+# Bot config — contiene el GitHub PAT, NUNCA commitear
+.tc-bot-config.json
