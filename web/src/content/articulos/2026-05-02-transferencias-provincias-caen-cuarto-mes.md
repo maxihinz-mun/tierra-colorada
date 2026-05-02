@@ -1,0 +1,20 @@
+---
+titulo: "Las transferencias a provincias cayeron por cuarto mes y Corrientes pierde poder de compra"
+bajada: "El acumulado enero-abril retrocede 5,7% real frente al mismo período de 2025. Corrientes recibió $200.295 millones nominales en abril, pero el dato real es de baja. La provincia es la principal receptora de ATN del año."
+seccion: economia
+genero: noticia
+autor: "Redacción Economía"
+fecha: 2026-05-02T14:15:00-03:00
+tags: [corrientes, nacional, economia, coparticipacion, atn]
+destacada: false
+---
+
+Las transferencias automáticas que la Nación envía a las provincias cayeron 3,3% real en abril y acumulan en los primeros cuatro meses de 2026 una baja del 5,7% real respecto del mismo período del año pasado. Es el cuarto mes consecutivo de retroceso, según los relevamientos privados sobre datos del Ministerio de Economía publicados esta semana. Corrientes integra el grupo de provincias afectadas: durante abril ingresaron a la administración correntina 200.295,3 millones de pesos en concepto de coparticipación federal, alrededor de 20.000 millones por encima de lo que había llegado en marzo en términos nominales. El número, leído contra la inflación, no compensa el deterioro.
+
+El motor de la caída es la propia masa coparticipable, que representa el 91% de las transferencias. En abril se distribuyeron 5,07 billones de pesos por ese mecanismo en todo el país, y la cifra acumulada del cuatrimestre llegó a 21,9 billones. La pérdida total de poder de compra para las jurisdicciones, según los mismos cálculos, es de 1,39 billones de pesos en lo que va del año, y de 189.589 millones solo en abril. La comparación más larga es elocuente: el nivel real de transferencias actuales se ubica 12,8% por debajo del registrado en 2023, 14,1% por debajo del de 2022 y 11,4% por debajo del de 2021. Solo supera al cuatrimestre 2024.
+
+El cuadro provincial se sostiene con dos amortiguadores discrecionales que dependen de decisiones del Ejecutivo nacional. El primero son los Aportes del Tesoro Nacional. Corrientes recibió hasta marzo 14.000 millones de pesos en ATN, distribuidos en tres tramos: 3.000 millones en enero, 3.000 millones en febrero y 8.000 millones en marzo. Esa cifra equivale a casi la cuarta parte de los ATN ejecutados a nivel nacional en 2026, según las planillas oficiales relevadas por la prensa especializada. El motivo registrado en los considerandos: los daños provocados por las inundaciones en San Luis del Palmar, San Roque y Santa Lucía. El segundo amortiguador es el adelanto de coparticipación habilitado por el decreto 253/2026, que oficializó hasta 400.000 millones de pesos para doce provincias, Corrientes entre ellas. El mecanismo permite cobrar hoy fondos que ya pertenecen a las jurisdicciones por reparto, y devolverlos en cuotas durante el ejercicio.
+
+«La inflación se está comiendo el aumento nominal», resumió esta semana un economista del Iaraf en declaraciones citadas por medios provinciales. La advertencia se replica en los informes que circulan en los gabinetes económicos del NEA: la baja real de coparticipación, sumada al congelamiento de la obra pública nacional —que en programas de transporte e infraestructura registra caídas de hasta 100% en ejecución a marzo—, deja a las provincias con menos margen de financiamiento corriente y obliga a estirar partidas o a buscar adelantos para cumplir con sueldos. En Corrientes, el propio gobernador Juan Pablo Valdés admitió esta semana que las finanzas están «ajustadas» y que el formato de aumentos para los estatales se está evaluando en tramos cortos por trimestre.
+
+El próximo termómetro será el dato de inflación nacional de abril, que el INDEC publicará el jueves 14 de mayo. Las consultoras privadas estiman registros entre 2,4% y 2,8%. Si el número confirma la desaceleración esperada, parte del rojo real de las provincias podría moderarse hacia el segundo trimestre. Si no, el cuadro de caja del año seguirá apoyándose más en ATN y adelantos que en coparticipación corriente, una ecuación que la propia teoría del régimen federal define como excepción, no como regla.
