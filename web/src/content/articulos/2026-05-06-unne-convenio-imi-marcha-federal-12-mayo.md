@@ -1,0 +1,22 @@
+---
+titulo: "La UNNE firmó un convenio con la provincia para el IMI a una semana de la marcha federal por el presupuesto"
+bajada: "La universidad acordó asistencia técnica y auditoría externa para el Instituto de Modernización provincial el martes en Casa de Gobierno. El próximo 12 de mayo movilizará junto al sistema universitario nacional por la actualización salarial y la recomposición de su financiamiento."
+seccion: sociedad
+genero: noticia
+autor: "Sofía Aquino"
+fecha: 2026-05-06T08:15:00-03:00
+tags: [corrientes, unne, marcha, educacion, imi, financiamiento]
+destacada: false
+---
+
+La Universidad Nacional del Nordeste (UNNE) firmó este martes 5 de mayo, en el Salón Amarillo de Casa de Gobierno, un convenio marco con la provincia de Corrientes para colaborar con el recién habilitado Instituto de Modernización e Innovación (IMI). El acuerdo establece asistencia técnica de la universidad para el desarrollo del organismo y prevé que la casa de altos estudios actúe como auditor externo del proceso a través del Observatorio de Políticas Públicas del Nordeste. El convenio se rubrica seis días antes de la cuarta Marcha Federal Universitaria, convocada para el martes 12 de mayo, en la que la UNNE participará junto al resto del sistema universitario público en reclamo de una actualización salarial y la recomposición de su financiamiento nacional.
+
+El acto del martes lo encabezó el gobernador Juan Pablo Valdés y participaron el rector de la UNNE, Gerardo Omar Larroza, el decano de Ingeniería y autoridades académicas. La provincia presentó el IMI como una herramienta para «desburocratizar» la administración y «facilitar la llegada de capitales». La universidad asumió, según el texto del convenio, dos funciones: asistencia técnica para el diagnóstico institucional y la formación de equipos provinciales en herramientas de inteligencia artificial, y auditoría independiente del proceso a través del Observatorio. Larroza definió la articulación como una contribución al desarrollo regional.
+
+La marcha del 12 de mayo, en cambio, tiene como interlocutor al gobierno nacional. La Federación Universitaria Argentina (FUA), el Consejo Interuniversitario Nacional (CIN) y los gremios docentes y no docentes —entre ellos ADIUNNE y CODIUNNE en el ámbito local— sostienen que el sistema universitario perdió cerca del 32% de su poder de compra desde fines de 2023, que las paritarias del sector están sin actualización por dos años y medio, y que las transferencias de fondos a las universidades públicas cayeron un 45,6% en el período. La adhesión de la UNNE al paro nacional universitario ya se había confirmado la semana pasada y abarca de lunes a viernes en las cuatro sedes regionales.
+
+La convivencia entre las dos escenas no es novedad para la institución universitaria. El financiamiento estructural de la UNNE proviene del Tesoro nacional y los conflictos paritarios son nacionales; los convenios productivos, científicos o de gestión con el Estado provincial responden a otra lógica institucional y son habituales desde hace décadas. Lo que resalta la coincidencia de fechas es el esfuerzo simultáneo que el rectorado debe sostener: cooperar con la provincia en programas concretos y, al mismo tiempo, presionar al gobierno nacional por una recomposición que no llega.
+
+Para los gremios universitarios, la articulación con la provincia no compensa el cuadro estructural. Docentes con dedicación simple inicial cobran cargos que rondan los 250.000 pesos mensuales, una cifra que para una familia tipo se ubica por debajo de la línea de pobreza calculada por el INDEC. La auditoría externa al IMI que asume la UNNE es académica y técnica; las paritarias docentes y no docentes, ausentes desde fines de 2023, requieren una decisión presupuestaria que el Ejecutivo nacional no terminó de instrumentar.
+
+La marcha del 12 tendrá su réplica en Corrientes y en Resistencia, las dos sedes principales de la UNNE. La universidad confirmó las concentraciones en el campus correntino y el chaqueño y pidió a la comunidad académica que adhiera a la jornada. La firma del convenio del martes y la convocatoria a la marcha conviven en el calendario de una misma semana: las dos respuestas que la institución produce frente a un escenario en el que la provincia ofrece programas específicos y la Nación posterga la respuesta presupuestaria. Lo que defina ambas escenas en los próximos días marcará, también, el horizonte salarial y operativo de los próximos meses para 50.000 estudiantes y más de 7.000 trabajadores entre las cuatro sedes.
