@@ -1,0 +1,22 @@
+---
+titulo: "Recuperaron al niño llevado desde Esquina; el padre y un abogado fueron detenidos"
+bajada: "El menor de seis años apareció el martes en el paraje El Duraznillo, en Goya, tras casi 40 horas de búsqueda con Alerta Sofía. La Justicia provincial dispuso la detención del progenitor y del abogado José Codazzi por su intervención en el traslado."
+seccion: sociedad
+genero: noticia
+autor: "Sofía Aquino"
+fecha: 2026-05-06T14:15:00-03:00
+tags: [corrientes, seguridad, alerta-sofia, esquina, goya]
+destacada: false
+---
+
+El operativo desplegado por la Policía de Corrientes con apoyo de fuerzas federales localizó este martes al niño de seis años que había sido sustraído por su padre en la ciudad de Esquina el domingo a la noche. El menor fue hallado en el paraje El Duraznillo, en jurisdicción del departamento de Goya, tras casi 40 horas de búsqueda activada bajo el protocolo de Alerta Sofía. La Justicia provincial dispuso la detención del progenitor, identificado por las autoridades como Josías Santos Regis, y del abogado José Fernández Codazzi, sobre quien recae la imputación de encubrimiento por haber trasladado al sospechoso y al niño desde Esquina hacia el departamento de Goya.
+
+El hecho que origina la causa ocurrió el domingo 3 de mayo a la noche. Según la reconstrucción judicial difundida por la Fiscalía interviniente, Santos Regis disparó contra Javier Nievas, de 47 años, en el marco de una discusión en una casa de Esquina. La víctima fue trasladada al Hospital San Roque, donde quedó internada y fuera de peligro. Tras la agresión, el agresor abandonó el lugar con el menor. La denuncia formal de la madre activó la búsqueda esa misma noche y, en las horas siguientes, el Ministerio de Seguridad de la Nación dispuso la activación de la Alerta Sofía, sistema de difusión inmediata que se aplica a casos con riesgo grave para la integridad del menor.
+
+El hallazgo, según informaron desde el Ministerio de Seguridad provincial, se produjo en la mañana del martes en una zona rural de difícil acceso del paraje El Duraznillo, a unos cincuenta kilómetros de la ciudad de Goya. El niño se encontraba estable y fue trasladado a un centro de salud para los controles correspondientes. La madre tomó contacto con él horas después, en presencia de personal del programa de Atención a las Víctimas. La causa quedó bajo la órbita del fuero penal de Esquina, con intervención de la Asesoría de Menores.
+
+La detención del abogado Codazzi sumó al expediente un actor nuevo. La Fiscalía ordenó su arresto a partir de información reunida durante la búsqueda y de declaraciones de testigos que ubicaron su camioneta entre Esquina y la zona rural de Goya en las horas posteriores al ataque. Codazzi ya era conocido por su intervención en el caso de la desaparición del niño Loan Danilo Peña, ocurrida en junio de 2024 en 9 de Julio: había patrocinado en su momento a Laudelina Peña, tía del menor desaparecido, y su nombre figura en distintos legajos de la investigación federal por aquel caso. La medida dispuesta esta semana corresponde, sin embargo, a la causa por el episodio de Esquina y no se vincula formalmente con el expediente Loan.
+
+Para los actores institucionales, el caso deja en claro un punto que el Ministerio de Seguridad provincial venía señalando hace meses: el sistema Alerta Sofía, gestionado a nivel federal, requiere la coordinación con cuerpos policiales locales y conocimiento territorial fino para producir un resultado en pocas horas. El operativo combinó información de testigos, rastrillaje rural y búsqueda satelital. Lo que la cronología expone también es el límite del dispositivo cuando se trata de territorios rurales con baja conectividad: el rastreo demandó más de un día y medio aún con un aviso que se viralizó en menos de dos horas.
+
+Quedan abiertas las preguntas de fondo que la causa va a tener que responder en las próximas semanas: si el agresor contaba con un cuadro de salud mental conocido y registrado, si existían denuncias previas de violencia familiar dentro del sistema judicial provincial, si el arma utilizada estaba registrada y si las redes de contacto que facilitaron el traslado del menor formaban parte de un esquema más amplio. La Asesoría de Menores y la Fiscalía interviniente dispusieron resguardo psicológico para el niño y su madre. La línea provincial de Atención a la Violencia Familiar (137) y la línea nacional 144 mantienen disponibilidad las 24 horas para situaciones de violencia de género y familiar.
