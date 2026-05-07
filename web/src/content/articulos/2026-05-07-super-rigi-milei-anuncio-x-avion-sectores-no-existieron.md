@@ -1,0 +1,20 @@
+---
+titulo: "Milei anunció un «Súper RIGI» en X desde el avión presidencial, sin proyecto en Congreso"
+bajada: "El presidente afirmó que enviará una ley con beneficios mayores que el RIGI original para «sectores que nunca existieron» en la Argentina. El anuncio se hizo por redes, en pleno escándalo Adorni y sin texto formal a la vista."
+seccion: politica
+genero: noticia
+autor: "Lucía Benítez"
+fecha: 2026-05-07T15:00:00-03:00
+tags: [nacional, corrientes, milei, rigi, congreso, inversiones]
+destacada: false
+---
+
+El presidente Javier Milei anunció este jueves 7 de mayo, a través de un mensaje publicado en su cuenta de X, que enviará al Congreso un proyecto de ley para crear un nuevo régimen al que denominó «Súper RIGI», con beneficios superiores al Régimen de Incentivo para Grandes Inversiones que se aprobó dentro de la Ley Bases en 2024. El propio jefe de Estado encuadró la decisión con una imagen: «Dado que no podemos comprarnos un B2 Spirit no me queda otra que lanzar una MEGA BOMBA desde el avión presidencial. Estaremos mandando al Congreso una ley sobre SÚPER RIGI, el cual tiene mayores ventajas que el RIGI original y que aplicará para sectores que nunca han existido en Argentina». La frase, replicada por La Nación, Cadena 3 y la mayoría de los medios nacionales, resume el alcance del anuncio: un anticipo en redes, sin texto, sin proyecto presentado y sin lista de sectores beneficiarios.
+
+El RIGI original, vigente desde 2024, otorga estabilidad fiscal, cambiaria y aduanera por 30 años a proyectos de inversión por encima de los 200 millones de dólares en sectores específicos: energía, minería, gas y petróleo, infraestructura, forestoindustria, siderurgia, tecnología y agroindustria. El nuevo esquema, según se desprende del propio anuncio presidencial, apuntaría a actividades emergentes que «nunca existieron» en la Argentina. La especulación del mercado, recogida por La Nación y MDZol, ronda inteligencia artificial, datacenters, economía del conocimiento avanzada, minería estratégica vinculada a tierras raras y energías nuevas. El Gobierno no oficializó esa lista. El ministro de Economía, Luis Caputo, que viajó esta semana a Estados Unidos junto al Presidente, había confirmado el martes que Chevron Corporation enviará un nuevo proyecto bajo el RIGI vigente por más de 10.000 millones de dólares, según informó Infobae.
+
+El anuncio llega en un contexto político marcado por el escándalo judicial del jefe de Gabinete, Manuel Adorni, denunciado por enriquecimiento sin causa explicada. Milei, en la misma jornada, ratificó por X su respaldo al funcionario y descartó cambios en el Gabinete. La columnista de El Destape consignó que la maniobra busca recolocar la agenda económica por encima del frente judicial. El oficialismo, además, intenta encauzar la sesión del 20 de mayo en Diputados, en la que Karina Milei impulsa la eliminación de las PASO. La secretaria general fue tajante ante los legisladores de La Libertad Avanza: «Las PASO hay que eliminarlas», según reprodujo Infobae.
+
+Para Corrientes, la propuesta tiene un punto sensible. La provincia y los sectores productivos del Litoral —yerba mate, arroz, foresto-industria, ganadería— quedaron afuera de los grandes proyectos del RIGI vigente, que concentró sus expresiones de interés en hidrocarburos no convencionales, litio y siderurgia. Un nuevo régimen orientado a «sectores que nunca existieron» difícilmente alcance a las economías regionales tradicionales, que reclaman precio y mercado más que estabilidad fiscal por treinta años. Los productores yerbateros, con valores de hoja verde por debajo de los 300 pesos por kilo en parte de la cosecha, según relevamiento de MisionesOnline, son el contraste más visible: piden un precio mínimo, no un régimen para industrias inéditas.
+
+El anuncio presidencial, hasta el cierre de esta edición, no fue acompañado por la presentación del proyecto en la Mesa de Entradas del Congreso. La Cámara de Diputados, por ahora, sigue con la agenda libertaria centrada en la eliminación de las PASO, Ficha Limpia y el rechazo a media docena de proyectos opositores. La «mega bomba», por ahora, viaja en avión.

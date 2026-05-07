@@ -1,0 +1,20 @@
+---
+titulo: "Misiones puso 9.000 millones para sostener el precio de la yerba; Corrientes, segunda productora, no replicó"
+bajada: "El gobierno misionero activó el martes una línea de descuento de cheques a tasa cero en Banco Macro condicionada a un piso de 301 pesos por kilo de hoja verde. La provincia correntina concentra Santo Tomé e Ituzaingó pero no anunció una medida análoga."
+seccion: economia
+genero: noticia
+autor: "Mariano Rojas"
+fecha: 2026-05-07T16:00:00-03:00
+tags: [corrientes, yerba, inym, misiones, productores, santo-tome, ituzaingo]
+destacada: false
+---
+
+El gobierno de Misiones puso en marcha el miércoles 6 de mayo una línea de descuento de cheques a tasa cero en el Banco Macro, con un cupo inicial de 9.000 millones de pesos, destinada a productores, secaderos y molinos del sector yerbatero. La medida, anunciada por la Subsecretaría de Asuntos Yerbateros y publicada por El Territorio, MisionesOnline y Canal 12 Misiones, pone una condición clara: solo accede al beneficio quien respete un precio mínimo de 301 pesos por kilo de hoja verde y 1.160 pesos por kilo de yerba canchada. Los cheques se pueden descontar a 60 y 90 días, sin pagar interés, y la operatoria rige hasta fin de año.
+
+La iniciativa misionera responde a un cuadro que excede los límites de esa provincia. Tras la desregulación del INYM por el DNU 70/2023 y, sobre todo, tras el Decreto 812 que reorientó las funciones del Instituto exclusivamente al «fortalecimiento de las industrias», el organismo dejó de fijar precio de referencia para la hoja verde. En abril de 2026, según consignó MisionesOpina, el directorio del INYM rechazó por mayoría una propuesta para reactivar ese mecanismo. El resultado: dispersión extrema en los valores que reciben los productores. Algunos compradores pagan por debajo de los 300 pesos por kilo de hoja verde —Grupo Kabour está alrededor de los 240, según el relevamiento de RadioUp—, mientras otros llegan a 350 o 380 pesos.
+
+El dato que falta en el cuadro nacional es el de Corrientes. La provincia, según el último censo del INYM, tiene 27.386,86 hectáreas de yerba mate, concentradas en los departamentos de Santo Tomé e Ituzaingó. Es el 13% de la superficie total del país, frente a las 181.890,02 hectáreas de Misiones. Pero el dato cambia mes a mes: en enero de 2026, según informó Plan B Misiones citando estadísticas del INYM, Corrientes superó por primera vez en la historia a Misiones en la producción de hoja verde, con 12.125.833 kilos sobre un total de 16.426.312, equivalentes al 74% del mes. La rotación de cosecha y los problemas climáticos en Misiones explican la anomalía. Lo que no explican es por qué Corrientes, con productores en la misma situación de precio, no replicó hasta ahora una herramienta provincial análoga.
+
+Hasta el cierre de esta edición, el Ministerio de Producción correntino no había publicado en sus canales oficiales un comunicado que mencione un instrumento financiero específico para sostener un precio mínimo en la cosecha en curso. Tampoco aparece en la agenda pública de la administración de Juan Pablo Valdés un pronunciamiento sobre el rechazo del INYM al precio de referencia de abril. La Cámara de Diputados de la provincia tampoco trató, hasta este miércoles, ningún proyecto orientado a establecer una herramienta análoga a la misionera. Para los productores correntinos de Santo Tomé e Ituzaingó, eso significa, hoy, vender al precio que les paga la industria, sin piso provincial.
+
+La paradoja final es de ejecución. La misma provincia que en enero superó por primera vez a Misiones en producción de hoja verde es la que tiene a sus productores expuestos al precio más bajo, sin red financiera provincial que actúe como contrapeso. El subsecretario misionero, Sebastián Safrán, definió la herramienta de su provincia con una frase que vale para todo el sector: «Es una herramienta para asegurar un precio mínimo para los productores», dijo a Canal 12 Misiones. Lo que falta, en el lado correntino del río Uruguay, es una respuesta de la misma magnitud.
