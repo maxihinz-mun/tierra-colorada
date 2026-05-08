@@ -1,0 +1,26 @@
+---
+titulo: "El REM del BCRA elevó la inflación anual proyectada al 30,5% y el Top 10 ya estima 33%"
+bajada: "El relevamiento de mayo del Banco Central corrigió al alza la expectativa de IPC para 2026 por primera vez en el año. Para Corrientes, la marca empuja la discusión sobre el bono mensual de 110.000 pesos que la provincia mantiene sin actualizar."
+seccion: economia
+genero: noticia
+autor: "Mariano Rojas"
+fecha: 2026-05-08T14:35:00-03:00
+tags: [nacional, corrientes, bcra, rem, inflacion, ipc, paritaria, plus-unificado]
+destacada: false
+---
+
+El Relevamiento de Expectativas de Mercado (REM) que difundió el Banco Central el miércoles ubicó la proyección de inflación anual de 2026 en el 30,5%, por encima del 29,1% que había estimado el mes pasado. Es la primera vez en el año que la mediana de los analistas privados ajusta al alza la expectativa anual y, además, supera el umbral del 30%. Los analistas que históricamente más afinaron sus pronósticos —el llamado «Top 10»— estimaron una variación interanual del 33%, según informó el propio reporte oficial publicado en el sitio del BCRA y replicado por Infobae, Ámbito y Bloomberg Línea.
+
+La revisión llega a contramano de la narrativa de desaceleración que el Gobierno nacional viene exhibiendo desde fines de 2025. Para abril, las mismas consultoras estimaron una inflación mensual del 2,6% —en línea con el dato del REM previo—, lo que implicaría una desaceleración respecto del 3,4% de marzo informado por el INDEC. La inflación núcleo proyectada se ubicó en 2,6%, con un Top 10 que la previó en 2,7%. El INDEC publicará el dato oficial de abril el jueves 14 de mayo a las 16, según el calendario oficial del organismo.
+
+El relevamiento del BCRA se realizó entre el 28 y el 30 de abril e incluyó la respuesta de 45 participantes: 33 consultoras y centros de investigación nacionales e internacionales y 12 entidades financieras argentinas. La revisión al alza de la expectativa anual no se concentró en un mes puntual sino en la trayectoria del segundo semestre, donde el grupo Top 10 prevé una desaceleración «más lenta» que la mediana general. La proyección anual del Top 10 (33%) se ubica casi tres puntos por encima de la mediana global y ocho puntos por encima de las estimaciones más optimistas.
+
+La cifra tiene impacto directo sobre Corrientes por dos vías. La primera es de cuentas: el Plus Unificado que el Ejecutivo provincial liquidó esta semana —110.000 pesos remunerativos no bonificables, escalonados por terminación de DNI— se mantiene nominalmente igual desde principios de año, mientras la inflación acumulada del primer cuatrimestre, computada sobre el dato oficial de marzo (3,4%) y la proyección del REM para abril (2,6%), ya supera los dos dígitos. Cada mes que el bono se mantiene sin actualizar implica una pérdida real para el universo de estatales activos, jubilados y pensionados.
+
+La segunda vía es de coparticipación. Una parte sustantiva de los recursos que recibe la provincia depende de la base imponible nominal —IVA, Ganancias—, que sube con la inflación. Pero las transferencias no automáticas a las provincias —los Aportes del Tesoro Nacional, los fondos de obras y otros giros discrecionales— vienen cayendo en términos reales: 57,2% en el primer cuatrimestre, según el último informe del Instituto Argentino de Análisis Fiscal (IARAF). En ese cruce, una inflación que se desacelera más lento que lo previsto comprime el poder de gasto provincial sin que aparezca un compensador desde Nación.
+
+Los analistas privados también corrigieron al alza la proyección del tipo de cambio mayorista para fin de año, en un movimiento que el REM describió como simultáneo a la ampliación de la banda cambiaria que el Gobierno mantiene vigente. El dólar mayorista cerró el jueves 7 a 1.396 pesos, con una brecha del 22,9% respecto del techo de la banda y reservas brutas del Banco Central en 45.951 millones de dólares, según los datos diarios del propio BCRA. Para los productores correntinos exportadores —arroz, yerba canchada, foresto-industria— la dinámica del tipo de cambio frente a una inflación que no cede al ritmo previsto define rentabilidad.
+
+El reporte del miércoles agregó otra alerta: la proyección de crecimiento del PBI 2026 quedó en torno al 2,8%, sin cambios respecto del REM anterior. La combinación de una inflación que se ajusta al alza con una expansión proyectada estable describe un escenario donde la corrección de precios continúa, pero sin tracción adicional sobre la actividad. Para una provincia donde el empleo asalariado cayó 4,4% interanual en el último año, según la EPH del INDEC, esa combinación plantea un horizonte que, en lo que va del año, no permite suponer una recuperación rápida.
+
+El próximo dato relevante es el IPC oficial de abril del INDEC, el jueves 14. Si la cifra se ubica por debajo del 2,6% que estima el REM, la trayectoria anual podría revisarse a la baja en el próximo relevamiento. Si la supera, el escenario que ya marcó el Top 10 —33% de inflación anual— se vuelve la referencia más probable. En cualquiera de los dos casos, los compromisos salariales que la administración provincial tomó en 2025 con bonos extraordinarios fijos pierden poder de compra mes a mes, y la negociación con los gremios estatales y judiciales correntinos se sostiene cada vez con menos margen.

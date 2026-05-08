@@ -1,0 +1,24 @@
+---
+titulo: "Judiciales: Hacienda bloqueó la carga del 6% en SISPER y Diputados pidió informes al STJ"
+bajada: "El gremio Sitraj denunció que la cartera económica frenó la liquidación del aumento ratificado por la acordada N° 02/2026. La sesión del miércoles en la Cámara provincial expuso un cruce institucional sobre la autonomía financiera del Poder Judicial."
+seccion: politica
+genero: noticia
+autor: "Lucía Benítez"
+fecha: 2026-05-08T14:25:00-03:00
+tags: [corrientes, valdes, stj, justicia, legislatura, sitraj, hardoy, leconte]
+destacada: false
+---
+
+El Sindicato de Trabajadores Judiciales de Corrientes (Sitraj) denunció que el Ministerio de Hacienda y Finanzas provincial frenó la carga del segundo tramo del aumento del 6% en el sistema de liquidación de haberes SISPER, una medida que en los hechos posterga sin fecha el pago del segundo tramo del incremento del 12% acordado en febrero por el Superior Tribunal de Justicia. La denuncia fue retomada esta semana por Canal E y Corrientes Hoy, en el marco del estado de alerta y asamblea permanente que el gremio mantiene desde abril.
+
+El conflicto se originó en el Acuerdo Extraordinario N° 02/2026 del STJ, que dispuso el incremento del 12% para empleados y funcionarios judiciales en dos tramos: el primero, del 6%, fue liquidado con los haberes de marzo; el segundo, también del 6% y previsto para los haberes de abril, no se efectivizó. Hacienda notificó por escrito al Tribunal la imposibilidad técnica y legal de autorizar el nuevo esquema, con el argumento —según el dictamen difundido por el propio Tribunal— de que la efectivización del segundo tramo agotaría las partidas asignadas al Poder Judicial antes de noviembre. El gobernador Juan Pablo Valdés cuantificó el costo del aumento en 48.000 millones de pesos a fin de año, una cifra que el Ejecutivo presenta como inviable en el cuadro fiscal vigente.
+
+El conflicto saltó del Tribunal a la Legislatura el miércoles 6 de mayo, cuando la Cámara de Diputados de Corrientes trató un pedido de informes presentado por el diputado de La Libertad Avanza Ricardo «Caito» Leconte, que reclama detalle sobre el cumplimiento del régimen de autonomía financiera del Poder Judicial. La sesión, que crónicas de El Litoral describieron como «caliente», incluyó un cruce abierto con el diputado del oficialismo provincial Eduardo Hardoy, quien defendió la decisión del Ejecutivo y sostuvo que la independencia de poderes «no significa gastar todo el presupuesto en un mes», según consignó Perfil.
+
+La acordada del STJ ratificó el aumento del 6%, pero el Tribunal pospuso para una próxima reunión el tratamiento formal del incumplimiento. La maniobra deja al gremio en un escenario donde la decisión salarial fue convalidada por la conducción de la Justicia provincial, pero permanece bloqueada en el sistema de liquidación que opera bajo control del Ejecutivo. Sitraj reiteró ante el presidente del STJ, Guillermo Semhan, el reclamo formal para «agotar» las gestiones que garanticen el pago, y sus delegados marcharon en abril en reclamo del incumplimiento. Al cierre de esta nota, el Ministerio de Hacienda no había informado un nuevo cronograma alternativo para el tramo adeudado.
+
+El cuadro institucional excede el conflicto salarial. La autonomía financiera del Poder Judicial provincial está prevista en la legislación local, que asigna al Tribunal una participación de la recaudación general. Que el segundo tramo de un acuerdo extraordinario quede sin efectivizar por una decisión del Ministerio de Hacienda introduce el debate, planteado por Leconte en su pedido, sobre quién decide en última instancia los haberes del personal judicial: la cúspide del propio Poder o la cartera económica del Ejecutivo. Hardoy y el oficialismo provincial sostienen que la decisión es de cuidado fiscal; la oposición libertaria, que es una intervención sobre la autonomía.
+
+En paralelo, el Ejecutivo provincial empezó a pagar este jueves el Plus Unificado de 110.000 pesos —remunerativo, no bonificable— para activos, jubilados y pensionados, con cronograma escalonado por terminación de DNI hasta el miércoles 13. La superposición entre el bono mensual general y el aumento judicial frenado plantea una pregunta práctica: por qué hay margen fiscal para una liquidación adicional para el universo del Poder Ejecutivo y no para honrar un acuerdo extraordinario del Poder Judicial.
+
+El próximo paso institucional depende del STJ. El Tribunal incluyó el tratamiento del no pago en la agenda de su próxima acordada y los gremios judiciales advirtieron que, sin definición, profundizarán las medidas de fuerza. La discusión, además, es relevante para la mesa salarial provincial, donde gremios docentes y de la administración pública miran de cerca cómo se cierra el conflicto en la Justicia, antes de definir su propio recorrido para el segundo trimestre del año.
