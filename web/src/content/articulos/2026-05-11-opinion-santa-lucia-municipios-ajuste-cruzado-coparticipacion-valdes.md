@@ -1,0 +1,24 @@
+---
+titulo: "Opinión: Santa Lucía no es un caso aislado, es la postal del ajuste cruzado"
+bajada: "Una caída del 33% nominal en coparticipación en un solo mes empuja a un municipio a declarar la emergencia. La Nación retiene, la Provincia administra con la lógica del «no» y la cuenta la paga la cuadra."
+seccion: politica
+genero: opinion
+autor: "Mariano Rojas"
+fecha: 2026-05-11T07:30:00-03:00
+tags: [opinion, corrientes, valdes, milei, coparticipacion, municipios, santa-lucia, ajuste]
+destacada: false
+---
+
+Santa Lucía no es la noticia rara de un lunes; es la postal nítida de cómo se ejecuta, en territorio, un ajuste cruzado que hasta ahora se discutía en términos macro. Un municipio del centro de Corrientes, gobernado por un intendente del PJ, recibió en marzo unos 100 millones de pesos menos que el mismo mes del año pasado. La caída nominal fue del 33%; la inflación acumulada del año también. Es decir: en términos reales, la coparticipación no se contrajo, se desfondó. La consecuencia es la ordenanza 005/26 que el Concejo Deliberante aprobó días atrás y que declara la emergencia económica por 120 días.
+
+La tentación, en un país con la cultura partidaria nuestra, es leer el hecho en clave de bandos. Que Santa Lucía es peronista y por eso lo cuenta. Que el gobernador es radical y por eso no responde. Que el Presidente es libertario y por eso no compensa. Esa lectura es cómoda y, en parte, cierta: hay tensión política entre los tres niveles. Pero la lectura útil para el lector correntino es otra. La que mira los números.
+
+El Gobierno nacional cortó las transferencias no automáticas en una magnitud que no tiene precedentes recientes: 57,2% real interanual en el primer cuatrimestre, según el IARAF. La coparticipación primaria —la que sale del IVA y de Ganancias— cae menos en términos relativos pero sigue cayendo, porque la actividad económica todavía está debajo del piso de 2023. Cuando ese flujo llega a la provincia, encuentra un Ejecutivo provincial que decidió, con todas las letras, una política de «caja única» y una pedagogía del «no». «Hay que saber decir que no», sostuvo Juan Pablo Valdés en abril, en respuesta al reclamo de los judiciales. La frase es coherente con su modelo de gestión. También define, sin necesidad de decirlo, qué les corresponde a los municipios cuando piden auxilio: el mismo «no».
+
+El problema con esa cadena es que tiene un punto de quiebre. Una intendencia no es un ministerio: no fabrica recursos propios significativos en municipios pequeños como Santa Lucía, donde la coparticipación es la fuente principal del presupuesto. Cuando la fuente principal cae un tercio, la decisión no es de eficiencia, es de supervivencia. Se declara la emergencia, se suspenden obras, se posterga personal temporario, se reza para que el dato del INDEC del jueves dé un poco más bajo. Mientras tanto, el comercio local se vacía, los proveedores cobran tarde y la nómina pública también.
+
+La pregunta política que abre Santa Lucía no es qué partido gobierna —en una provincia con 74 municipios, el cuadro reproduce todos los colores—, sino quién asume responsabilidad. Cuando el Gobierno nacional retiene fondos discrecionales sin publicar el criterio, hay una decisión política que el Congreso no terminó de controlar y que la Bicameral de DNU recién se está conformando para revisar. Cuando el Gobierno provincial decide no asistir y traslada la lógica del ajuste a los gobiernos locales, hay otra decisión política, esta vez sin la intermediación del Congreso, sino directamente sobre el cuerpo del territorio.
+
+La línea editorial de este diario es anticorrupción agnóstica. Eso significa, en este caso, no acusar a Valdés de fabricar la crisis ni a Milei de buscar el colapso municipal: ninguna de las dos imputaciones tiene sustento documental. Significa decir, en cambio, que la cadena de decisiones —retener arriba, ajustar al medio, decir que no abajo— produce un resultado predecible y que ese resultado ya tiene domicilio: Departamento Lavalle, ruta 12, kilómetro 600 y tantos. Significa preguntar, también, qué control parlamentario hay en cada eslabón. La respuesta, al cierre de esta columna, es magra: el Congreso recién organiza sus comisiones bicamerales y la Legislatura provincial todavía no se planteó pedir informes sobre la asistencia a municipios.
+
+Quedan 119 días de emergencia en Santa Lucía. Si la decisión nacional no se modifica y si la lógica del «no» provincial se mantiene, otros municipios harán cuentas y avanzarán por la misma vía. La emergencia, por definición, es una herramienta excepcional. Cuando se vuelve frecuente, deja de ser excepcional y pasa a ser un dato estructural. Y un dato estructural, en periodismo, deja de ser noticia y empieza a ser sistema. Antes de que eso pase, conviene anotar quién decidió cada paso.
