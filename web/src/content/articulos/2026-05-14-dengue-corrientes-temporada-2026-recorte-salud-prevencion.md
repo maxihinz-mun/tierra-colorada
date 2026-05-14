@@ -1,0 +1,26 @@
+---
+titulo: "Dengue en Corrientes: la prevención llega a mayo con el primer caso confirmado y partidas nacionales recortadas"
+bajada: "El Ministerio de Salud Pública provincial, conducido por Emilio Lanari Zubiaur, confirmó el primer caso de la temporada en abril. A nivel nacional, la Decisión Administrativa 20/2026 le quita 20.000 millones al programa de medicamentos del que el sistema provincial es beneficiario."
+seccion: sociedad
+genero: noticia
+autor: "Sofía Aquino"
+fecha: 2026-05-14T14:35:00-03:00
+tags: [corrientes, dengue, salud-publica, ministerio-salud, lanari-zubiaur, recorte, chikungunya]
+destacada: false
+---
+
+La temporada 2025/26 de dengue se consolidó en Corrientes con el **primer caso confirmado en abril**, según informó el Ministerio de Salud Pública provincial conducido por **Emilio Lanari Zubiaur** y reprodujo Diario Época. El caso correspondió a una paciente adulta mayor con antecedentes de viaje, atendida en la capital, con buena evolución clínica. La cartera sanitaria provincial mantiene activado el protocolo de vigilancia entomológica y descacharrizado en barrios identificados como de mayor riesgo. La nota la cubrió este diario el 11 de mayo.
+
+A nivel nacional, durante la semana epidemiológica 7 de 2026 el Boletín Epidemiológico Nacional registró **20 casos confirmados** acumulados en la temporada vigente, según los datos publicados por la cartera nacional de Salud. El 70% de esos casos corresponde a personas con antecedente de viaje. El cuadro es menor al de la temporada 2024/25, cuando el dengue alcanzó cifras récord en el NEA, pero los referentes sanitarios provinciales —incluido Lanari Zubiaur— advirtieron que el riesgo se sostiene en el otoño por la prolongación de altas temperaturas y el flujo turístico desde regiones con circulación activa, especialmente Paraguay y Brasil.
+
+A la presión epidemiológica se le suma una restricción presupuestaria de origen nacional. La **Decisión Administrativa 20/2026**, firmada por el jefe de Gabinete **Manuel Adorni** y el ministro de Economía **Luis Caputo**, recortó **$2,5 billones** del Presupuesto 2026, según el texto publicado en el Boletín Oficial el lunes 12. El anexo del decreto detalla la quita de **$63.021 millones** al área de Salud Pública. Dentro de ese rubro, el programa «Acceso a Medicamentos, Insumos y Tecnología Médica» pierde **$20.000 millones** y «Fortalecimiento de los Sistemas Provinciales de Salud» **$25.000 millones**. Las dos partidas son las que canalizan medicamentos y reactivos hacia las administraciones sanitarias provinciales, según el seguimiento del Ministerio de Salud nacional difundido en febrero. Tierra Colorada cubrió el alcance del decreto el martes 13.
+
+Para Corrientes, el efecto operativo de ese recorte se traduce en dos planos. El primero es la disponibilidad de **tests rápidos y reactivos de PCR** que utilizan los laboratorios provinciales para confirmación de casos sospechosos. Esos insumos llegan a la provincia, en su mayoría, vía remesa del Ministerio de Salud nacional. El segundo es la disponibilidad de **fármacos antitérmicos** y soporte de hidratación que el sistema público distribuye en hospitales y centros de atención primaria. La gestión provincial, según el último parte de Salud Pública difundido a fines de abril, comunicó la compra de un cupo provincial en marzo para complementar la entrega nacional. El monto y el plazo de cobertura de esa compra no fueron publicados.
+
+El cuadro se complica con la **chikungunya**, vigente en circulación confirmada en algunas provincias del NOA y con presencia esporádica en el NEA durante la temporada actual, según el último reporte epidemiológico nacional. Lanari Zubiaur mencionó en abril la necesidad de mantener la vigilancia conjunta de ambas arbovirosis, dado que el vector —el mosquito Aedes aegypti— es el mismo. En la provincia no se reportaron casos confirmados de chikungunya durante la presente temporada, según la última información oficial disponible.
+
+La oposición provincial no fijó posición pública sobre la respuesta sanitaria del primer cuatrimestre. Distintas organizaciones de salud comunitaria de Corrientes capital vienen pidiendo desde marzo la publicación detallada de los operativos de descacharrizado por barrio y por mes, dato que el ministerio difunde en partes generales sin desagregación territorial.
+
+El próximo paso esperado es la actualización mensual del Boletín Epidemiológico Provincial, que la cartera de Salud Pública publica habitualmente entre el 18 y el 22 de cada mes. La pregunta concreta que el sistema de salud provincial tendrá que responder antes del invierno es si los insumos disponibles alcanzan para sostener vigilancia y atención hasta la próxima temporada cálida, en un contexto donde el principal canal de aprovisionamiento nacional acaba de perder un cuarto de su partida anual.
+
+**Recurso ciudadano:** ante síntomas compatibles con dengue (fiebre, dolor de cabeza, dolor detrás de los ojos, dolor muscular o articular), la recomendación oficial es consultar al centro de salud público más cercano y no automedicarse con aspirina ni ibuprofeno. Los números de contacto del Ministerio de Salud Pública de la provincia están publicados en saludcorrientes.gob.ar.
