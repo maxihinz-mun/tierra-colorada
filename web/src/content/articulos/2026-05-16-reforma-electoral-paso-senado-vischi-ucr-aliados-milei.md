@@ -1,0 +1,24 @@
+---
+titulo: "Reforma electoral: el Senado debate eliminar las PASO con la UCR de Vischi en posición de bisagra"
+bajada: "El proyecto del Ejecutivo tiene 78 artículos y necesita 37 votos. La UCR pide separar Ficha Limpia y mantener algún tipo de primaria. El bloque correntino que conduce Vischi vuelve a aparecer en el centro de la negociación con el oficialismo nacional."
+seccion: politica
+genero: noticia
+autor: "Lucía Benítez"
+fecha: 2026-05-16T07:45:00-03:00
+tags: [nacional, corrientes, senado, paso, reforma-electoral, ucr, vischi, milei, ficha-limpia]
+destacada: false
+---
+
+El Senado de la Nación abrió el miércoles 13 de mayo el tratamiento del **proyecto de reforma electoral** enviado por el Poder Ejecutivo, un texto de 78 artículos que propone eliminar las **Primarias Abiertas, Simultáneas y Obligatorias (PASO)**, modificar la ley orgánica de los partidos políticos, cambiar la elección de representantes al Parlasur e incorporar el régimen de **Ficha Limpia**. La cabecera del debate, según los registros oficiales de la Cámara alta y la cobertura de Ámbito, Infobae y el Senado de la Nación, expuso desde el primer día las **tensiones entre el oficialismo nacional y sus aliados dialoguistas**.
+
+El número es la primera pared. El proyecto se aprueba con mayoría absoluta —**37 votos** sobre 72 senadores— y La Libertad Avanza no llega por sí sola. Necesita al PRO, a la UCR y a los bloques provinciales. La eliminación de las PASO, central en la iniciativa, no tiene consenso entre los bloques que el oficialismo necesita: ya antes de abrirse el debate, el radical **Maximiliano Abad** declaró a Infobae que "hoy no hay acuerdo ni consenso" para eliminar las primarias. El presidente del bloque UCR del Senado, el correntino **Eduardo Vischi**, pidió desde la apertura **separar Ficha Limpia del paquete** para tratarla como ley autónoma y dejar PASO para una negociación aparte.
+
+El movimiento del bloque que conduce Vischi tiene aritmética y política. Aritmética: si la UCR vota la eliminación de las PASO en bloque, el oficialismo nacional se acerca al número; si la UCR la baja, no hay reforma. Política: Vischi viene de presidir la Comisión de Coparticipación Federal —cobertura del 14 de mayo en este diario— en un Congreso donde su bloque acompañó proyectos del oficialismo nacional que afectan a las provincias. La eliminación de las PASO es una bandera de La Libertad Avanza desde 2024 y un punto en el que el oficialismo nacional pide gestos a sus aliados.
+
+**Qué propone el texto.** El proyecto consolida tres planos. Primero, elimina las PASO como instancia obligatoria y simultánea para definir candidaturas a cargos legislativos y presidenciales. Segundo, reforma el régimen de partidos: requisitos de afiliación, mecanismos de selección interna, financiamiento, fiscalización. Tercero, incorpora **Ficha Limpia**: impedimento para ser candidato a cargos electivos nacionales para personas con condena en segunda instancia por delitos contra la administración pública. La UCR coincide con el oficialismo en Ficha Limpia. No coincide en PASO. Por eso pide separar.
+
+**Qué dice la oposición.** Desde **Unión por la Patria** —el bloque de mayoría en el Senado— rechazaron tratar la eliminación de las PASO como pieza única del paquete. Sostienen, en línea con declaraciones recogidas por la prensa de la jornada, que las primarias son un mecanismo de participación ciudadana y que el oficialismo nacional las quiere eliminar porque le complica internas que aún no resolvió en su propio frente provincial. El bloque del Frente de Izquierda planteó objeciones a la reforma del régimen partidario y al sistema de financiamiento.
+
+**Qué significa para Corrientes.** Tres planos. **Primero**: si se aprueba la eliminación, las próximas elecciones provinciales y municipales que sigan el calendario nacional o adhieran a él cambian el chip: candidatos definidos por orgánicas partidarias, sin instancia de primarias abiertas a la ciudadanía. En la práctica, las internas de los partidos correntinos —UCR, PJ, PRO, Vamos Corrientes, vecinalismos— ganan peso al perder la validación externa del electorado. **Segundo**: el bloque correntino de la UCR en el Senado, encabezado por Vischi, vuelve a ser pieza de bisagra. Lo que vote ese bloque va a explicar parte del resultado. **Tercero**: la incorporación de Ficha Limpia, si se desprende del paquete, podría avanzar antes —en eso Vischi y el oficialismo coinciden— y aplicarse a los procesos electorales provinciales que adhieran.
+
+El plenario de comisión sigue. La Comisión de Asuntos Constitucionales que preside Agustín Coto (LLA) convocó nuevas reuniones para escuchar especialistas. El cronograma no fue confirmado al cierre de esta nota. La pregunta que recorre el recinto es la misma de todos los proyectos de gran impacto que envió el Ejecutivo nacional desde 2024: **¿quién acompaña, quién acompaña a medias y quién pone la firma sobre lo que después la provincia paga?**
